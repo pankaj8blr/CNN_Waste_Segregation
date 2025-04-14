@@ -38,6 +38,8 @@ These images are resized, normalized, and split for training, validation, and te
 - Matplotlib, Seaborn
 - OpenCV (cv2)
 - Scikit-learn
+- Development Environment: **Google Colab**
+- Version Control: Git
 
 ---
 
